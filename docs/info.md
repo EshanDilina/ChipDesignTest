@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+And operator on A and B signals and will emit the output at 0th output pin
 
 ## How to test
 
-Explain how to use your project
+Make A and B 0 seperately while the other is 1 and check the output. Check when both 1.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Switch bar and LED used
